@@ -1,4 +1,6 @@
-facebook-page-search
-====================
+Facebook pages search
+=====================
 
-Search lust of pages available in facebook functionality 
+Search list of pages available in facebook 
+
+This code base helps to understand the facebook search functionality.
